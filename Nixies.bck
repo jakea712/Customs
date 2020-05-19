@@ -18,4 +18,10 @@ K HCMOS SR 3State
 F http://www.ti.com/lit/ds/symlink/sn74hc595.pdf
 $ENDCMP
 #
+$CMP Transformer_1P_1S
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
 #End Doc Library
